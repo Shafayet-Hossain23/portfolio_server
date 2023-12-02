@@ -1,0 +1,74 @@
+[
+    {
+        "project_id": "1",
+        "projectName": "Phone Garage",
+        "liveSite": "https://phone-garage-client.web.app/",
+        "ClientGit": "https://github.com/Shafayet-Hossain23/phone-garage",
+        "serverGit": "https://github.com/Shafayet-Hossain23/Phone-Garage-Server",
+        "img": "https://i.ibb.co/8P7GJss/phone-garage-tiny.jpg"
+    },
+    {
+        "project_id": "2",
+        "projectName": "FooDies",
+        "liveSite": "https://foodies-client-5b86a.web.app/",
+        "ClientGit": "https://github.com/Shafayet-Hossain23/FooDies",
+        "serverGit": "https://github.com/Shafayet-Hossain23/Foodies-server",
+        "img": "https://i.ibb.co/RzDyhhG/foodies2-tiny.jpg"
+    },
+    {
+        "project_id": "3",
+        "projectName": "Scan_f Academy",
+        "liveSite": "https://learning-platform-client-c5cea.web.app/",
+        "ClientGit": "https://github.com/Shafayet-Hossain23/Scan_f-Academy023",
+        "serverGit": "https://github.com/Shafayet-Hossain23/Scanf_academy-server",
+        "img": "https://i.ibb.co/Kzrm0zG/scanf1-tiny.png"
+    },
+    {
+        "project_id": "4",
+        "projectName": "Doctor's Portal",
+        "liveSite": "https://doctors-portal-client-ca22a.web.app/",
+        "ClientGit": "https://github.com/Shafayet-Hossain23/dentist-doctors-portal",
+        "serverGit": "https://github.com/Shafayet-Hossain23/Doctors-Portal-server",
+        "img": "https://i.ibb.co/w64681s/portal2-tiny.png"
+    },
+    {
+        "project_id": "6",
+        "projectName": "Quiz Store",
+        "liveSite": "https://quiz-store-1902023.netlify.app/",
+        "ClientGit": "https://github.com/Shafayet-Hossain23/quizStore",
+        "serverGit": "",
+        "img": "https://i.ibb.co/ds9vc4q/quiz1-tiny.png"
+    },
+    {
+        "project_id": "7",
+        "projectName": "Strength-Center",
+        "liveSite": "https://strength-center-023.netlify.app",
+        "ClientGit": "https://github.com/Shafayet-Hossain23/strength-center",
+        "serverGit": "",
+        "img": "https://i.ibb.co/1dWhN7Z/strength1-tiny.png"
+    },
+    {
+        "project_id": "8",
+        "projectName": "Speed-Monster",
+        "liveSite": "https://speed-monster-1902023.netlify.app/",
+        "ClientGit": "https://github.com/Shafayet-Hossain23/Speed-Monster",
+        "serverGit": "",
+        "img": "https://i.ibb.co/F3KZxf2/speed1-tiny.png"
+    },
+    {
+        "project_id": "9",
+        "projectName": "News-Portal",
+        "liveSite": "https://news-feed-023.netlify.app/",
+        "ClientGit": "https://github.com/Shafayet-Hossain23/News-Portal",
+        "serverGit": "",
+        "img": "https://i.ibb.co/XjqL4g8/news1-tiny.png"
+    },
+    {
+        "project_id": "10",
+        "projectName": "Select-Five",
+        "liveSite": "https://pick-top-five-01.netlify.app/",
+        "ClientGit": "https://github.com/Shafayet-Hossain23/select-best-five",
+        "serverGit": "",
+        "img": "https://i.ibb.co/QFtYv1f/pic-top1-tiny.jpg"
+    }
+]

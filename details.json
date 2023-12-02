@@ -1,0 +1,143 @@
+[
+    {
+        "project_id": "1",
+        "technology_used": [
+            " React.Js",
+            "React-router-dom",
+            "Firebase",
+            "Tailwind CSS",
+            "Node.Js ",
+            "Express.Js",
+            "MongoDB ",
+            "jwt-authentication",
+            "stripe.js",
+            "other npm packages"
+        ],
+        "project_details": [
+            "Phone garage has three different states for Buyer, Seller & Admin with different functionalities.",
+            "Buyer can report and book products by completing payment | seller can add, delete & advertise their products | Admin can verify seller, delete buyer, seller & products and many things.",
+            "Security is ensured by JWT token and applying card operations."
+        ],
+        "serverGit": "https://github.com/Shafayet-Hossain23/Phone-Garage-Server"
+    },
+    {
+        "project_id": "2",
+        "technology_used": [
+            " React.Js",
+            "React-router-dom",
+            "Firebase",
+            "Tailwind CSS",
+            "Node.Js ",
+            "Express.Js",
+            "MongoDB ",
+            "other npm packages"
+        ],
+        "project_details": [
+            " FooDies is a company-based food related website where they sell and deliver items.",
+            "User can review on a particular item and show others review || user can also see his all comments, can edit and delete review. For adding review user must be login first."
+        ],
+        "serverGit": "https://github.com/Shafayet-Hossain23/Foodies-server"
+    },
+    {
+        "project_id": "3",
+        "technology_used": [
+            " React.Js",
+            "React-router-dom",
+            "Firebase",
+            "Bootstrap",
+            "Node.Js ",
+            "Express.Js",
+            "MongoDB ",
+            "other npm packages"
+        ],
+        "project_details": [
+            "This is online based educational website which offers quality tutorial for different computer programming languages",
+            "User can login and register to the website which is managed by firebase",
+            "Simply apply private route for protect webpage"
+        ],
+        "serverGit": "https://github.com/Shafayet-Hossain23/Scanf_academy-server"
+    },
+    {
+        "project_id": "4",
+        "technology_used": [
+            " React.Js",
+            "React-router-dom",
+            "Firebase",
+            "Tailwind CSS",
+            "Node.Js ",
+            "Express.Js",
+            "MongoDB ",
+            "jwt-authentication",
+            "stripe.js",
+            "other npm packages"
+        ],
+        "project_details": [
+            "This is online based doctor's appoinment portal related website",
+            "Here user can appoinment one time for a day for a doctor and can book the time slot by payment ",
+            "Here Admin can monitor all system.Admin can see the user who booked, add doctor and many things"
+        ],
+        "serverGit": "https://github.com/Shafayet-Hossain23/Doctors-Portal-server"
+    },
+    {
+        "project_id": "6",
+        "technology_used": [
+            " React.Js",
+            "React-router-dom",
+            "Bootstrap",
+            "HTML",
+            "CSS"
+        ],
+        "project_details": [
+            "User can attend quiz exam",
+            "If the answer is right is show success toast otherwise show error"
+        ]
+    },
+    {
+        "project_id": "7",
+        "technology_used": [
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "Java Script"
+        ],
+        "project_details": [
+            "Simply it calculate the exercise time for how much you spend in a day and store it in local storage "
+        ]
+    },
+    {
+        "project_id": "8",
+        "technology_used": [
+            "HTML",
+            "CSS",
+            "Java Script",
+            "local storage"
+        ],
+        "project_details": [
+            "It is type speed test website",
+            "It store your previous typing history by using local storage"
+        ]
+    },
+    {
+        "project_id": "9",
+        "technology_used": [
+            "HTML",
+            "CSS",
+            "Java Script"
+        ],
+        "project_details": [
+            "News portal website where news are available by category wised"
+        ]
+    },
+    {
+        "project_id": "10",
+        "technology_used": [
+            "HTML",
+            "CSS",
+            "Java Script"
+        ],
+        "project_details": [
+            "select only top five player",
+            "calculate the total salary of all players,manager,and coach of a team "
+        ]
+    }
+]
